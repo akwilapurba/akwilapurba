@@ -11,7 +11,7 @@
 - 🧠 **Sahari Microblogging Platform** — A mental health platform with AI-powered replies & peer support.  
 - 📚 **Training Management System** — An internal system for tracking and managing employee training across departments.
 
-🔍 I enjoy solving real-world problems through code, whether it's with backend logic, system architecture, or frontends.
+I enjoy solving real-world problems through code, whether it's with backend logic, system architecture, or frontends.
 
 
 
