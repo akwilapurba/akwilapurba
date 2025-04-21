@@ -1,5 +1,20 @@
 # 💫 About Me:
-I’m an undergraduate student at President University. <br>I’m currently working on PT. Bakrie Renewable Chemicals as Fullstack Developer.<br>My recent projects are Training Management System and Sahari Microblogging.<br><br>
+
+🎓 I'm an **Informatics undergraduate** student at **President University**.  
+💼 Currently working as a **Fullstack Developer** at **PT. Bakrie Renewable Chemicals**.  
+🚀 Passionate about building scalable and impactful web systems.
+
+---
+
+### 🛠️ Recent Projects
+
+- 🧠 **Sahari Microblogging Platform** — A mental health platform with AI-powered replies & peer support.  
+- 📚 **Training Management System** — An internal system for tracking and managing employee training across departments.
+
+---
+
+🔍 I enjoy solving real-world problems through code, whether it's with backend logic, system architecture, or frontends.
+
 
 
 ## 🌐 Socials:
