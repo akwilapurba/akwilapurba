@@ -11,9 +11,6 @@ I’m an undergraduate student at President University. <br>I’m currently work
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akwilapurba&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true" />
-    </td>
-    <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=akwilapurba&theme=aura_dark&hide_border=false" />
     </td>
     <td>
