@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme_content = """
 ---
 
 <h1 align="center">Hi there! 👋 I'm Akwila Nadinda Purba</h1>
