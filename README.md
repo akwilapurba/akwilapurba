@@ -80,15 +80,9 @@ readme_content = """
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=akwilapurba&icon=0&color=0" alt="Visitor Badge" />
-</p>
 
 ---
 
 <!-- Created using GPRM + love for tech 🚀 -->
 """
 
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content.strip())
-readme_path
