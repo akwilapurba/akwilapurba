@@ -4,7 +4,7 @@
 <h1 align="center">Hi there! 👋 I'm Akwila Nadinda Purba</h1>
 
 <p align="center">
-  🚀 <strong>Fullstack Developer</strong> at <strong>PT. Bakrie Renewable Chemicals</strong>  •  🎓 <strong>Informatics Undergraduate</strong> at <strong>President University</strong>
+   <strong>Fullstack Developer</strong> at <strong>PT. Bakrie Renewable Chemicals</strong>  •  🎓 <strong>Informatics Undergraduate student</strong> at <strong>President University</strong>
 </p>
 
 ---
@@ -17,10 +17,10 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Recent Projects
 
 ### 🧠 Sahari Microblogging Platform
-> A mental health platform that provides **AI-powered replies**, peer support, and anonymous sharing to combat stigma.
+> A mental health platform that provides **AI-powered replies**, peer support, and a safe space through Automated Content Moderation.
 
 ### 📚 Training Management System
 > An internal system to track and manage employee training across departments with analytics and role-based access.
